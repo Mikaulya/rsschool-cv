@@ -9,5 +9,5 @@ My goal is Frontend developer.
 ## Skills
 * Git (Beginner)
 * English (Beginner)
-## My project
+## My-project
 CV
