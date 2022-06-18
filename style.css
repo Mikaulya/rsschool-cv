@@ -1,1 +1,29 @@
-<! - - start - - >
+.body {
+    font-family: 'PT Serif', serif;
+}
+* {
+    box-sizing: border-box;
+  }
+.header {
+    border: 1px solid black;
+}  
+.main {
+    border: 1px solid black;
+
+}
+.footer {
+    border: 1px solid black;
+}
+.body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .nav-list {
+    justify-content: flex-end;
+    align-items: center;
+  }
